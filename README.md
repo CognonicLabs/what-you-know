@@ -1,9 +1,13 @@
 # What You Know
 misc. proverbs for developers
 
+---
+
 **Note:** If you come across this scratch pad of programming, development and project management concepts that you would like to add to, please add an Issue item. All sorts of thoughts will be considered for inclusion, but preference is given to wisdom that speaks to Truth and science based evidence and less to "Geek Social Memes"
 
-Developer things you know that you know even if you don't know why you know that...
+---
+
+**Developer things you know that you know even if you don't know why you know that...**
 
 - the easiest code to develop is no code at all. Most companies should NOT be developing code anymore than they would design their own office buildings, parking lots and electrical distribution systems.
 - agile development just hides the mess you just made somewhere else and is a huge contributer to very low quality products
@@ -18,4 +22,13 @@ Developer things you know that you know even if you don't know why you know that
 - "Keep your hands off my stack" is a line in Pink Floyd's Money (the famous Dark Side of the Moon album) and that is where the word "stack" should remain. Aside from the hipster culture origins and "my stack is better than your stack" is the obvious distinction that silicon computers don't think like that (well, other than an actual STACK instruction) but the word has been hijacked to mean a nebulous or distinct bundle of arbitrary development software that magically takes precedence over good architecure and design work. The word is a Red Flag warning of lazy and shoddy thinking
 
 
+---
+
+**Your ideas could go right here if you want...**
+
+- you said it!
+- you don't say...
+- say what?
+- say what you like, 
+- say it isn't so
 
