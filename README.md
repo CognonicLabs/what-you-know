@@ -1,6 +1,8 @@
 # What You Know
 misc. proverbs for developers
 
+**Note:** If you come across this scratch pad of programming, development and project management concepts that you would like to add to, please add an Issue item. All sorts of thoughts will be considered for inclusion, but preference is given to wisdom that speaks to Truth and science based evidence and less to "Geek Social Memes"
+
 Developer things you know that you know even if you don't know why you know that...
 
 - the easiest code to develop is no code at all. Most companies should NOT be developing code anymore than they would design their own office buildings, parking lots and electrical distribution systems.
@@ -13,5 +15,7 @@ Developer things you know that you know even if you don't know why you know that
 - calling the complex Art of Programming some variation of "Engineering" and labeling programmers "Engineers" is both stupid and a disservice to real Engineers everywhere. The origin of this unfortunate recent social meme is probably startup culture seeking to reassure the stock market but misguided perversions like that have a habit of taking on a life of their own...
 - the concept of "technical debt" is an absurd metaphor comparing programming to the banking industry. In the real world, debt is physical money that someone is expecting to get from you. The hogwash of the term "technical debt" implies you have borrowed some sort of entity that you are obligated to repay where nothing of the sort actually occurs in the digital domain. Every time you here anyone mention "technical debt" either run away quickly or mentally replace the words with "I was too lazy to design things propery and I wish somebody else would cover for me there so I don't look so stupid, in fact if I come up with a smart sounding phrase you might even think the opposite"
 - the thing that made Extreme Programming methodologies work was "continuous refactoring" and "no code at all is much better than code you will never need" and then people prompty forgot all those gains because well, refactoring is real work, that also requires real understanding of the entire code base. Which requires Talent.
+- "Keep your hands off my stack" is a line in Pink Floyd's Money (the famous Dark Side of the Moon album) and that is where the word "stack" should remain. Aside from the hipster culture origins and "my stack is better than your stack" is the obvious distinction that silicon computers don't think like that (well, other than an actual STACK instruction) but the word has been hijacked to mean a nebulous or distinct bundle of arbitrary development software that magically takes precedence over good architecure and design work. The word is a Red Flag warning of lazy and shoddy thinking
+
 
 
